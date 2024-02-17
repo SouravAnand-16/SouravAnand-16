@@ -1,4 +1,4 @@
-                                                 <h1>Hi there</h1> 👋
+##### Hi there 👋
 <hr>
                                              <h4>A passionate Full Stack Developer</h2>
 
