@@ -1,6 +1,4 @@
-# Hi there 👋
-
-###I'm Sourav Anand
+# Hi there 👋 ###I'm Sourav Anand
 <hr>
                                              <h4>A passionate Full Stack Developer</h2>
 
