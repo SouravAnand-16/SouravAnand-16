@@ -10,12 +10,9 @@
  📫 How to reach me: sauravanand324@gmail.com
 
  <hr>
- <h1>Portfolio:https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/</h1>
- <a href=""></a>
- <hr>
- <h1>LinkedIn:<a href="https://www.linkedin.com/in/sourav-anand-502694249/"></a>/h1>
+ <h6>Portfolio:https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/</h6>
   <hr>
-  <h1>LeetCode:<a href="https://leetcode.com/maniacsaurav/"></a></h1>
+  <h6>LeetCode:href="https://leetcode.com/maniacsaurav/</h6>
   <hr>
 <h1>Github Stats</h1>
  <div>
