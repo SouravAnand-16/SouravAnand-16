@@ -10,6 +10,12 @@
  📫 How to reach me: sauravanand324@gmail.com
 
  <hr>
+ <h1>Portfolio:<a href="https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/"></a></h1>
+ <hr>
+ <h1>LinkedIn:<a href="https://www.linkedin.com/in/sourav-anand-502694249/"></a>/h1>
+  <hr>
+  <h1>LeetCode:<a href="https://leetcode.com/maniacsaurav/"></a></h1>
+  <hr>
 <h1>Github Stats</h1>
  <div>
    <img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravAnand-16" alt="GitHub Streak Stats">
