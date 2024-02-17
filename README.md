@@ -9,12 +9,11 @@
  
  📫 How to reach me: sauravanand324@gmail.com
 
- <hr>
- <h6>Portfolio:https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/</h6>
+  <h5>Portfolio : https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/</h5>
+  
+  <h5>LeetCode : https://leetcode.com/maniacsaurav/</h5>
   <hr>
-  <h6>LeetCode:href="https://leetcode.com/maniacsaurav/</h6>
-  <hr>
-<h1>Github Stats</h1>
+  <h1>Github Stats</h1>
  <div>
    <img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravAnand-16" alt="GitHub Streak Stats">
 
