@@ -1,4 +1,5 @@
 ### Hi there 👋
+<hr>
 
 🔭 I’ve worked on Wipro Pvt. Ltd as a Project Engineer
 
@@ -6,7 +7,7 @@
 
  💬 Ask me about Web Developemnet
  
- 📫 How to reach me: 8292257479
+ 📫 How to reach me: sauravanand324@gmail.com
 
 <!--
 **SouravAnand-16/SouravAnand-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
