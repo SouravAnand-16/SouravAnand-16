@@ -1,7 +1,6 @@
-                                                ### <h2>Hi there</h2> 👋
-
-                                                <h4>A passionate Full Stack Developer</h2>
+                                                ### Hi there 👋
 <hr>
+                                             <h4>A passionate Full Stack Developer</h2>
 
 🔭 I’ve worked on Wipro Pvt. Ltd as a Project Engineer
 
