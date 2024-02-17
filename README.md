@@ -1,7 +1,11 @@
 ### Hi there 👋
+
 🔭 I’ve worked on Wipro Pvt. Ltd as a Project Engineer
+
 🌱 I’m currently learning Full Stack Development in Masai School
+
  💬 Ask me about Web Developemnet
+ 
  📫 How to reach me: 8292257479
 
 <!--
