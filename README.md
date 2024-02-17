@@ -10,7 +10,8 @@
  📫 How to reach me: sauravanand324@gmail.com
 
  <hr>
- <h1>Portfolio:<a href="https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/"></a></h1>
+ <h1>Portfolio:</h1>
+ <a href="https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/"></a>
  <hr>
  <h1>LinkedIn:<a href="https://www.linkedin.com/in/sourav-anand-502694249/"></a>/h1>
   <hr>
