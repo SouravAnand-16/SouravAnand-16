@@ -19,7 +19,7 @@
   <h5>LinkedIn : https://www.linkedin.com/in/sourav-anand-502694249/</h5>
   <hr>
   
-   <h2 align="center">My Collaborations👨‍💻:</h2>
+   <h2>My Collaborations👨‍💻:</h2>
    
 <div aling="center">
 <a href="https://github.com/Saurabh8657/Team_kushal_koder">
