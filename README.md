@@ -34,7 +34,7 @@
 
 <h2 align="center">🚀 Languages and Tools: </h2>
  
-<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
+<h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Tech Stack</h4>
  <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pkbgoupmgjv98otfuzjzz3olilr56muin6aigv8q&rid=giphy.gif&ct=g">
 <p>
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
@@ -56,7 +56,7 @@
 </p>
 <hr>
  
-<h4><img src="https://giphy.com/stickers/SurveyMonkey-data-feedback-survey-gIfb10foLDtsWg1W3d" width="30px">&nbsp;My working tools..</h4>
+<h4><img src="https://giphy.com/stickers/SurveyMonkey-data-feedback-survey-gIfb10foLDtsWg1W3d" width="30px">&nbsp;Tools..</h4>
 <p>
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>&nbsp;&nbsp;
