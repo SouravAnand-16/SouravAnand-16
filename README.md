@@ -17,11 +17,7 @@
   <h5>LeetCode : https://leetcode.com/maniacsaurav/</h5>
 
   <h5>LinkedIn : https://www.linkedin.com/in/sourav-anand-502694249/</h5>
-  <hr>
   
-   <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAnand-16&theme=react&layout=compact" alt="GitHub Top Languages" align="center" border-radius="40px" width="800px" height="150px">
-
-   
    <hr>
    <h2>My Collaborations👨‍💻:</h2>
    
@@ -88,3 +84,4 @@
 
    <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api/?username=SouravAnand-16&show_icons=true&theme=react&layout=compact" alt="GitHub Stats Card"  aling="right">
  </div> 
+   <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAnand-16&theme=react&layout=compact" alt="GitHub Top Languages" align="center" border-radius="40px" width="800px" height="150px">
