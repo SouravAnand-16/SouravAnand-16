@@ -1,5 +1,4 @@
-<div width="50px">![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)</div>
-<div>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h2 >Hi 👋, I am Sourav Anand</h2>
   
 <hr>
