@@ -1,6 +1,13 @@
-# Hi there 👋 I'm Sourav Anand
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<div>
+<h2 align="center">Hi 👋, I am Sourav Anand</h2>
+  
 <hr>
-                                             <h4>A passionate Full Stack Developer</h2>
+<!--   <h2 align="center">A passionate Full Stack Developer</h2> -->
+     <div align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full+Stack+Developer.👩‍💻;Interested+in+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a></div>
+  
+<div>
+<h2 align="center"> About Me </h2>
 
 🔭 I’ve worked at Wipro Pvt. Ltd as a Project Engineer
 
