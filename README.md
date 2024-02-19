@@ -79,7 +79,7 @@
   <h1>Github Stats</h1>
 
   <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravAnand-16&theme=react&layout=compact" />
- <div>
+ <div display="flex">
    <img id="github-streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravAnand-16&theme=react&layout=compact" alt="GitHub Streak Stats">
 
    <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAnand-16&theme=react&layout=compact" alt="GitHub Top Languages">
