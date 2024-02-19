@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/564x/c3/3b/af/c33bafb218aca8dffe9b0218f8d49c0f.jpg)
+![](https://i.pinimg.com/564x/d4/48/64/d44864e90e5052e703df721c542b0a4f.jpg)
 <div>
 <h2 >Hi 👋, I am Sourav Anand</h2>
   
