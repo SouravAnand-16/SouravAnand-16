@@ -78,10 +78,9 @@
 
   <h1>Github Stats</h1>
 
-  <img alt="My Github stats" align="center" border-radius="40px" width="800px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravAnand-16&theme=react&layout=compact" />
- <div display="flex">
-  
-   <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAnand-16&theme=react&layout=compact" alt="GitHub Top Languages">
 
-   <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api/?username=SouravAnand-16&show_icons=true&theme=react&layout=compact" alt="GitHub Stats Card"  align="right" border-radius="40px" width="800px" height="200px" >
+ <div display="flex">
+    <img alt="My Github stats" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravAnand-16&theme=react&layout=compact" />
+    <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAnand-16&theme=react&layout=compact" alt="GitHub Top Languages">
+   <img id="github-stats-card" src="https://github-readme-stats.vercel.app/api/?username=SouravAnand-16&show_icons=true&theme=react&layout=compact" alt="GitHub Stats Card"  >
  </div> 
