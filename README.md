@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<div width="50px">1[](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)</div>
 <div>
 <h2 >Hi 👋, I am Sourav Anand</h2>
   
