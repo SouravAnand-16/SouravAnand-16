@@ -18,14 +18,19 @@
 
   <h5>LinkedIn : https://www.linkedin.com/in/sourav-anand-502694249/</h5>
   <hr>
-    <center>
-     <a href="https://github.com/Saurabh8657/Team_kushal_koder">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SouravAnand-16&repo=Team_kushal_koder&theme=ayu-mirage&layout=compact" />
-    </a>
+  
+   <h2 align="center">My Collaborations👨‍💻:</h2>
+   
+<center>
+<a href="https://github.com/Saurabh8657/Team_kushal_koder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh8657&repo=Team_kushal_koder&theme=ayu-mirage&layout=compact" />
+</a>
+  </a>
     <a href="https://github.com/ShlokGaikwad/collab_project">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SouravAnand-16&repo=ShlokGaikwad/collab_project&theme=ayu-mirage&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShlokGaikwad&repo=ShlokGaikwad/collab_project&theme=ayu-mirage&layout=compact" />
     </a>
 </center>
+
 <hr>
   <h1>Github Stats</h1>
  <div>
