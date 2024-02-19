@@ -6,7 +6,7 @@
      <div ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Full+Stack+Developer.👩‍💻;coupled+with+working+experience.;Committed+to+continous+learning." alt="Typing SVG" /></a></div>
   
 <div>
-<h2 align="center"> About Me </h2><span align="left"> <img src="https://komarev.com/ghpvc/?username=SouravAnand-16" alt="SouravAnand-16" /> </span>
+<span> About Me </span><span align="left"> <img src="https://komarev.com/ghpvc/?username=SouravAnand-16" alt="SouravAnand-16" /> </span>
 
 🔭 I’ve worked at Wipro Pvt. Ltd as a Project Engineer
 
