@@ -19,7 +19,7 @@
   <h5>LinkedIn : https://www.linkedin.com/in/sourav-anand-502694249/</h5>
   <hr>
   
-   <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAnand-16&theme=react&layout=compact" alt="GitHub Top Languages" align="start" border-radius="40px" width="800px" height="150px">
+   <img id="github-top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouravAnand-16&theme=react&layout=compact" alt="GitHub Top Languages" align="left" border-radius="40px" width="800px" height="150px">
 
    
    <hr>
