@@ -2,11 +2,11 @@
 <hr>
                                              <h4>A passionate Full Stack Developer</h2>
 
-🔭 I’ve worked on Wipro Pvt. Ltd as a Project Engineer
+🔭 I’ve worked at Wipro Pvt. Ltd as a Project Engineer
 
 🌱 I’m currently learning Full Stack Development at Masai School
 
- 💬 Ask me about Web Developemnet
+ 💬 Ask me about RestAPI
  
  📫 How to reach me: 
 
