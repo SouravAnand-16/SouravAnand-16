@@ -27,7 +27,7 @@
 </a>
   </a>
     <a href="https://github.com/ShlokGaikwad/collab_project">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShlokGaikwad&repo=ShlokGaikwad/collab_project&theme=ayu-mirage&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShlokGaikwad&repo=collab_project&theme=ayu-mirage&layout=compact" />
     </a>
 </center>
 
