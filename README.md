@@ -4,7 +4,7 @@
 
 🔭 I’ve worked on Wipro Pvt. Ltd as a Project Engineer
 
-🌱 I’m currently learning Full Stack Development in Masai School
+🌱 I’m currently learning Full Stack Development at Masai School
 
  💬 Ask me about Web Developemnet
  
