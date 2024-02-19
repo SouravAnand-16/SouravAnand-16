@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/564x/d4/48/64/d44864e90e5052e703df721c542b0a4f.jpg)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
 <h2 >Hi 👋, I am Sourav Anand</h2>
   
