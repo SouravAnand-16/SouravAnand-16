@@ -31,7 +31,6 @@
 <a href="https://github.com/Saurabh8657/Team_kushal_koder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saurabh8657&repo=Team_kushal_koder&theme=ayu-mirage&layout=compact" />
 </a>
-  </a>
     <a href="https://github.com/ShlokGaikwad/collab_project">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShlokGaikwad&repo=collab_project&theme=ayu-mirage&layout=compact" />
     </a>
