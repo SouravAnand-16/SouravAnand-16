@@ -34,6 +34,9 @@
     <a href="https://github.com/ShlokGaikwad/collab_project">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShlokGaikwad&repo=collab_project&theme=ayu-mirage&layout=compact" />
     </a>
+   <a href="https://github.com/visorry/variable-sculptress-6789">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=visorry&repo=variable-sculptress-6789&theme=ayu-mirage&layout=compact" />
+    </a>
 </div>
 
 
