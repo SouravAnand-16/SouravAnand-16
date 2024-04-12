@@ -18,8 +18,6 @@
 
   <h5>Email : sauravanand324@gmail.com</h5>
   
-  <h5>Portfolio : https://65d09709bb272e8fb82f8439--funny-souffle-eb2cd6.netlify.app/</h5>
-  
   <h5>LeetCode : https://leetcode.com/maniacsaurav/</h5>
 
   <h5>LinkedIn : https://www.linkedin.com/in/sourav-anand-502694249/</h5>
