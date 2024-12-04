@@ -8,11 +8,13 @@
 <div>
 <h2 align="center"> About Me </h2>
 
-🔭 I’ve worked at Wipro Pvt. Ltd as a Project Engineer
+🔭 I worked as a Project Engineer at Wipro Pvt. Ltd. for one year, specializing in Java development.
 
-🌱 I’m currently learning Full Stack Development at Masai School
+🌱 I completed an intensive 8-month Full-Stack Development course at Masai School, gaining hands-on experience in building dynamic and scalable web applications.
 
- 💬 Ask me about RestAPI
+🔭  I worked as a SDE-1 at Zipteams Pvt. Ltd. for 6 months, specializing in Fullstack development.
+
+ 💬 building dynamic and scalable web applications.
  
  📫 How to reach me: 
 
